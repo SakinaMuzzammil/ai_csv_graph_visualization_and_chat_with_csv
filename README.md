@@ -27,6 +27,8 @@ streamlit run run.py
 ![alt text](./git-images/git-image-4.png)
 
 
-Author : Sakina muzzammil
 
-Thank you for exploring my project !
+Author: Sakina muzzammil
+
+Thank you for exploring this project !
+>>>>>>> 8980bf884d88ec6037749454eb5c2c1636db8083
