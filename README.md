@@ -24,7 +24,6 @@ streamlit run run.py
 ![alt text](https://github.com/easonlai/chat_with_csv_streamlit_with_chart/blob/main/git-images/git-image-4.png)
 
 
-Author - Sakina muzzammil
+Author: Sakina muzzammil
 
-
-Enjoy!
+Thank you for exploring this project !
