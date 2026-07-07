@@ -1,4 +1,4 @@
-# AI CSV Data Visualization
+# AI-Powered CSV-to-Graph Visualization and Chat Platform
 
 A customized data visualization application that allows users to upload CSV files, explore datasets, and generate interactive charts. Based on an open-source project with additional customization.
 
@@ -31,4 +31,4 @@ streamlit run run.py
 Author: Sakina muzzammil
 
 Thank you for exploring this project !
->>>>>>> 8980bf884d88ec6037749454eb5c2c1636db8083
+
