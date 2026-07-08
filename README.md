@@ -1,4 +1,4 @@
-# AI-Powered CSV-to-Graph Visualization and Chat Platform
+# AI-Powered CSV-to-Graph Visualization Platform
 
 A customized data visualization application that allows users to upload CSV files, explore datasets, and generate interactive charts. Based on an open-source project with additional customization.
 
