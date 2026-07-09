@@ -1,7 +1,7 @@
 # Import necessary libraries.
 import openai
 from langchain_openai import AzureOpenAI
-from langchain.agents import create_pandas_dataframe_agent
+from langchain_experimental.agents import create_pandas_dataframe_agent
 import pandas as pd
 
 # Configure the baseline configuration of the OpenAI library for Azure OpenAI Service.
